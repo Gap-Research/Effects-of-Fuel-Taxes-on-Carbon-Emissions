@@ -1,0 +1,13 @@
+
+CO2 Emissions from Transport Predictor Means before Tax Reform in Norway
+==================================================================================
+                                                 Treated    Synthetic  Sample Mean
+----------------------------------------------------------------------------------
+Real GDP (PPP) per capita                      25,251.6400 21,121.6600 21,167.0700
+Fuel consumption per capita                     511.1620    708.8470    583.9240  
+Share of gasoline consumption                    73.0990     74.8000     66.4280  
+Urban population                                 80.6060     81.1050     74.2110  
+CO2 emissions from transport per capita (1989)   4.5540      3.3490      2.5400   
+CO2 emissions from transport per capita (1979)   2.7220      2.7730      2.2870   
+CO2 emissions from transport per capita (1969)   1.6430      2.0400      1.6520   
+----------------------------------------------------------------------------------

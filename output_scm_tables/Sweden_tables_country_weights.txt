@@ -1,0 +1,20 @@
+
+Country Weights in Synthetic Sweden
+====================
+Weight    Country   
+--------------------
+0.001    Australia  
+0.001     Belgium   
+0.000     Canada    
+0.001     Denmark   
+0.001     France    
+0.002     Greece    
+0.001     Iceland   
+0.476      Japan    
+0.152   New.Zealand 
+0.024     Poland    
+0.002    Portugal   
+0.001      Spain    
+0.186   Switzerland 
+0.150  United.States
+--------------------
