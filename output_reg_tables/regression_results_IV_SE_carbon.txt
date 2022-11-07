@@ -1,0 +1,42 @@
+
+==========================================================================
+                              gas_exexcise_with_vat gas_excisetax_with_vat
+                                       (1)                   (2)          
+--------------------------------------------------------------------------
+gas_excisetax_with_vat               -1.245                               
+                                    (-2.263)                              
+                                                                          
+gas_exexcise_with_vat                                       -0.118        
+                                                           (0.212)        
+                                                                          
+t                                    0.171*                 0.103         
+                                     (0.075)               (0.588)        
+                                                                          
+real_gdp_cap_1000                    -0.007                 0.009         
+                                     (0.052)               (-0.059)       
+                                                                          
+urban_pop                             0.068                 -0.206        
+                                    (-1.982)               (-2.034)       
+                                                                          
+unemploymentrate                      0.081                 0.112         
+                                     (0.294)               (-0.190)       
+                                                                          
+real_oil_price_sek                    0.006                               
+                                     (0.003)                              
+                                                                          
+real_taxdiff                                                -0.338        
+                                                           (-0.843)       
+                                                                          
+Constant                              0.399                 15.304        
+                                    (151.028)             (177.410)       
+                                                                          
+Observations                           38                     38          
+R2                                    0.860                 0.978         
+Adjusted R2                           0.833                 0.974         
+Residual Std. Error (df = 31)         0.416                 0.203         
+F Statistic (df = 6; 31)            31.738**              227.673**       
+--------------------------------------------------------------------------
+Notes:                        ***Significant at the [***] percent level.  
+                              **Significant at the 1 percent level.       
+                              *Significant at the 5 percent level.        
+                              Notes: + p<0.01; * p<0.05                   

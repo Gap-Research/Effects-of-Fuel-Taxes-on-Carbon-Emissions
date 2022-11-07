@@ -1,0 +1,44 @@
+
+Estimation Results from Gasoline Consumption Regressions for Finland
+--------------------------------------------
+                      Gasoline Consumption  
+--------------------------------------------
+                        (1)          (2)    
+                        OLS1        OLS2    
+============================================
+Ex-Tax                 -0.07+       -0.01   
+                       (0.01)      (0.01)   
+                                            
+Tax                    -0.04*      -0.04+   
+                       (0.02)      (0.00)   
+                                            
+Trend                               0.06+   
+                                   (0.01)   
+                                            
+GDP per capita                      -0.00   
+                                   (0.00)   
+                                            
+Urban population                   -0.17+   
+                                   (0.01)   
+                                            
+Unemployment rate                  -0.03+   
+                                   (0.01)   
+                                            
+Constant               6.42+       17.85+   
+                       (0.15)      (0.90)   
+                                            
+============================================
+Observations             28          28     
+R2                      0.61        0.94    
+Adjusted R2             0.58        0.93    
+============================================
+***Significant at the [***] percent level.  
+**Significant at the 1 percent level.       
+*Significant at the 5 percent level.        
+Notes: + p<0.01; * p<0.05                   
+
+Estimation Results from Gasoline Consumption Regressions for Finland
+===========================
+  p-value b1=b2    0   0.01
+---------------------------
+Notes: + p<0.01; * p<0.05  
