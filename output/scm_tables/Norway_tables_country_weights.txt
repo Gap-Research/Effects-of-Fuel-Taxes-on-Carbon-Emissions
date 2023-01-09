@@ -1,0 +1,20 @@
+
+Country Weights in Synthetic Norway
+====================
+Weight    Country   
+--------------------
+0.000    Australia  
+0.236     Belgium   
+0.206     Canada    
+0.000     Denmark   
+0.000     France    
+0.000     Greece    
+0.000     Iceland   
+0.000      Japan    
+0.557   New.Zealand 
+0.000     Poland    
+0.000    Portugal   
+0.000      Spain    
+0.000   Switzerland 
+0.000  United.States
+--------------------
